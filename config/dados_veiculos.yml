@@ -1,0 +1,18 @@
+id: 1
+tipo: 'Truck 14T'
+capacidade: 14
+eixo: 3
+
+---
+
+id: 2
+tipo: 'Bitruck 18T'
+capacidade: 18
+eixo: 4
+
+---
+
+id: 3
+tipo: 'Carreta 24T'
+capacidade: 24
+eixo: 4
