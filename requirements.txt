@@ -1,0 +1,15 @@
+extra_streamlit_components==0.1.60
+numpy==1.26.4
+pandas==2.2.0
+plotly==5.19.0
+PyYAML==6.0.1
+PyYAML==6.0.1
+st_pages==0.4.5
+streamlit==1.31.0
+streamlit_calendar==1.1.0
+streamlit_extras==0.4.0
+streamlit_js_eval==0.1.5
+streamlit_modal==0.1.2
+streamlit_shadcn_ui==0.1.18
+streamlit_tags==1.2.8
+streamlit_aggrid==0.3.4

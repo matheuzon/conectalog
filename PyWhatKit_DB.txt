@@ -1,0 +1,10 @@
+Date: 20/2/2024
+Time: 18:14
+Phone Number: +5512997234950
+Message: teste msg python
+--------------------
+Date: 20/2/2024
+Time: 18:15
+Phone Number: +5512997234950
+Message: teste msg python
+--------------------
