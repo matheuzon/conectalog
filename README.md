@@ -26,4 +26,4 @@ Interface amigável e intuitiva, sem complicações.<br>
 Rastreamento detalhado de cargas para otimização logística.<br>
 Painel de portaria para visibilidade instantânea do progresso.<br>
 Controle de estoque simplificado e preciso.<br>
-[Nome do Seu Projeto] visa revolucionar a maneira como empresas abordam a logística, proporcionando eficiência, transparência e controle total. Junte-se a nós nesta jornada para redefinir o futuro da gestão logística!
+Conectalog visa revolucionar a maneira como empresas abordam a logística, proporcionando eficiência, transparência e controle total. Junte-se a nós nesta jornada para redefinir o futuro da gestão logística!
